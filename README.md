@@ -108,7 +108,7 @@ US-Food-Retail-Sales-Analysis/
 │   └── investment_analysis.md
 │
 ├── README.md
-└── LICENSE
+
 
 ```
 
