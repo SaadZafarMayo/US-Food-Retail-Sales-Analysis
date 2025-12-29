@@ -112,7 +112,6 @@ US-Food-Retail-Sales-Analysis/
 
 ```
 
-
 ---
 
 ## Tools & Techniques
@@ -135,6 +134,5 @@ US-Food-Retail-Sales-Analysis/
 - Build interactive dashboards using Tableau or Power BI
 - Add forecasting and trend projection
 - Enrich analysis with macroeconomic indicators
-- Extend analysis to profitability if cost data is available
 
 ---
