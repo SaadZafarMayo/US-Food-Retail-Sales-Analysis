@@ -60,7 +60,7 @@ All analysis is implemented directly in SQL.
 ---
 
 ## Tools & Techniques
-- **SQL (MySQL compatible)**
+- **SQL**
   - Aggregations & GROUP BY
   - Common Table Expressions (CTEs)
   - Window functions (`LAG`, `DENSE_RANK`, `PERCENT_RANK`)
