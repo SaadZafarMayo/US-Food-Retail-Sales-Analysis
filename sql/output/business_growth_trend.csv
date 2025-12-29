@@ -1,0 +1,59 @@
+industry,kind_of_business,trend
+Automotive,"Automobile and other motor vehicle dealers",FLUCTUATING
+Automotive,"Automobile dealers",FLUCTUATING
+Automotive,"Automotive parts, acc., and tire stores",GROWING
+Automotive,"Motor vehicle and parts dealers",FLUCTUATING
+Automotive,"New car dealers",FLUCTUATING
+Automotive,"Used car dealers",FLUCTUATING
+"Fashion & Accessories","Clothing and clothing access. stores",FLUCTUATING
+"Fashion & Accessories","Clothing stores",FLUCTUATING
+"Fashion & Accessories","Family clothing stores",FLUCTUATING
+"Fashion & Accessories","Jewelry stores",FLUCTUATING
+"Fashion & Accessories","Men's clothing stores",FLUCTUATING
+"Fashion & Accessories","Other clothing stores",FLUCTUATING
+"Fashion & Accessories","Shoe stores",FLUCTUATING
+"Fashion & Accessories","Women's clothing stores",FLUCTUATING
+"Food & Beverage","Beer, wine, and liquor stores",GROWING
+"Food & Beverage","Food and beverage stores",GROWING
+"Food & Beverage","Grocery stores",GROWING
+"Food & Beverage","Supermarkets and other grocery (except convenience) stores",GROWING
+"Food & Beverage","Warehouse clubs and superstores",GROWING
+"Fuel & Gasoline","Fuel dealers",FLUCTUATING
+"Fuel & Gasoline","Gasoline stations",FLUCTUATING
+"General Merchandise","All other gen. merchandise stores",GROWING
+"General Merchandise","Department stores",FLUCTUATING
+"General Merchandise","Department stores(excl. discount department stores)",FLUCTUATING
+"General Merchandise","Discount dept. stores",FLUCTUATING
+"General Merchandise","General merchandise stores",GROWING
+"General Merchandise","Other general merchandise stores",GROWING
+"Health & Personal Care","Health and personal care stores",GROWING
+"Health & Personal Care","Pharmacies and drug stores",FLUCTUATING
+"Home Goods & Building Supplies","Building mat. and garden equip. and supplies dealers",GROWING
+"Home Goods & Building Supplies","Building mat. and supplies dealers",GROWING
+"Home Goods & Building Supplies","Hardware stores",GROWING
+"Home Goods & Building Supplies","Paint and wallpaper stores",GROWING
+"Home Goods & Electronics","All other home furnishings stores",FLUCTUATING
+"Home Goods & Electronics","Electronic shopping and mail-order houses",GROWING
+"Home Goods & Electronics","Electronics and appliance stores",FLUCTUATING
+"Home Goods & Electronics","Electronics stores",FLUCTUATING
+"Home Goods & Electronics","Floor covering stores",FLUCTUATING
+"Home Goods & Electronics","Furniture and home furnishings stores",FLUCTUATING
+"Home Goods & Electronics","Furniture stores",FLUCTUATING
+"Home Goods & Electronics","Furniture, home furn, electronics, and appliance stores",FLUCTUATING
+"Home Goods & Electronics","Home furnishings stores",FLUCTUATING
+"Home Goods & Electronics","Household appliance stores",FLUCTUATING
+Miscellaneous,"Miscellaneous store retailers",FLUCTUATING
+Miscellaneous,"Nonstore retailers",GROWING
+Miscellaneous,"Used merchandise stores",FLUCTUATING
+"Office Supplies & Gifts","Gift, novelty, and souvenir stores",FLUCTUATING
+"Office Supplies & Gifts","Office supplies and stationery stores",DECLINING
+"Office Supplies & Gifts","Office supplies, stationery, and gift stores",FLUCTUATING
+"Restaurants & Bars","Drinking places",FLUCTUATING
+"Restaurants & Bars","Food services and drinking places",FLUCTUATING
+"Restaurants & Bars","Full service restaurants",FLUCTUATING
+"Restaurants & Bars","Limited service eating places",FLUCTUATING
+"Restaurants & Bars","Restaurants and other eating places",FLUCTUATING
+"Sports & Recreation","Book stores",FLUCTUATING
+"Sports & Recreation","Hobby, toy, and game stores",FLUCTUATING
+"Sports & Recreation","Sporting goods stores",FLUCTUATING
+"Sports & Recreation","Sporting goods, hobby, musical instrument, and book stores",FLUCTUATING

@@ -1,0 +1,755 @@
+naics_code,kind_of_business,year,yearly_sales,prev_year_sales,diff,pct_change
+441,"Motor vehicle and parts dealers",2010,742913,NULL,NULL,NULL
+441,"Motor vehicle and parts dealers",2011,812938,742913,70025,9.43
+441,"Motor vehicle and parts dealers",2012,886494,812938,73556,9.05
+441,"Motor vehicle and parts dealers",2013,962057,886494,75563,8.52
+441,"Motor vehicle and parts dealers",2014,1026740,962057,64683,6.72
+441,"Motor vehicle and parts dealers",2015,1103521,1026740,76781,7.48
+441,"Motor vehicle and parts dealers",2016,1151720,1103521,48199,4.37
+441,"Motor vehicle and parts dealers",2017,1185696,1151720,33976,2.95
+441,"Motor vehicle and parts dealers",2018,1204941,1185696,19245,1.62
+441,"Motor vehicle and parts dealers",2019,1237744,1204941,32803,2.72
+441,"Motor vehicle and parts dealers",2020,1208304,1237744,-29440,-2.38
+441,"Motor vehicle and parts dealers",2021,1480124,1208304,271820,22.50
+441,"Motor vehicle and parts dealers",2022,1527929,1480124,47805,3.23
+4411,"Automobile dealers",2010,621180,NULL,NULL,NULL
+4411,"Automobile dealers",2011,684505,621180,63325,10.19
+4411,"Automobile dealers",2012,752778,684505,68273,9.97
+4411,"Automobile dealers",2013,821791,752778,69013,9.17
+4411,"Automobile dealers",2014,880991,821791,59200,7.20
+4411,"Automobile dealers",2015,949238,880991,68247,7.75
+4411,"Automobile dealers",2016,991812,949238,42574,4.49
+4411,"Automobile dealers",2017,1020587,991812,28775,2.90
+4411,"Automobile dealers",2018,1035685,1020587,15098,1.48
+4411,"Automobile dealers",2019,1065549,1035685,29864,2.88
+4411,"Automobile dealers",2020,1023172,1065549,-42377,-3.98
+4411,"Automobile dealers",2021,1257870,1023172,234698,22.94
+4411,"Automobile dealers",2022,1284189,1257870,26319,2.09
+"4411,4412","Automobile and other motor vehicle dealers",2010,664974,NULL,NULL,NULL
+"4411,4412","Automobile and other motor vehicle dealers",2011,729974,664974,65000,9.77
+"4411,4412","Automobile and other motor vehicle dealers",2012,802359,729974,72385,9.92
+"4411,4412","Automobile and other motor vehicle dealers",2013,876528,802359,74169,9.24
+"4411,4412","Automobile and other motor vehicle dealers",2014,939932,876528,63404,7.23
+"4411,4412","Automobile and other motor vehicle dealers",2015,1012624,939932,72692,7.73
+"4411,4412","Automobile and other motor vehicle dealers",2016,1059067,1012624,46443,4.59
+"4411,4412","Automobile and other motor vehicle dealers",2017,1092253,1059067,33186,3.13
+"4411,4412","Automobile and other motor vehicle dealers",2018,1109994,1092253,17741,1.62
+"4411,4412","Automobile and other motor vehicle dealers",2019,1140956,1109994,30962,2.79
+"4411,4412","Automobile and other motor vehicle dealers",2020,1110321,1140956,-30635,-2.69
+"4411,4412","Automobile and other motor vehicle dealers",2021,1368039,1110321,257718,23.21
+"4411,4412","Automobile and other motor vehicle dealers",2022,1403735,1368039,35696,2.61
+44111,"New car dealers",2010,549473,NULL,NULL,NULL
+44111,"New car dealers",2011,608788,549473,59315,10.79
+44111,"New car dealers",2012,672550,608788,63762,10.47
+44111,"New car dealers",2013,737082,672550,64532,9.60
+44111,"New car dealers",2014,788883,737082,51801,7.03
+44111,"New car dealers",2015,848167,788883,59284,7.51
+44111,"New car dealers",2016,883452,848167,35285,4.16
+44111,"New car dealers",2017,906487,883452,23035,2.61
+44111,"New car dealers",2018,918326,906487,11839,1.31
+44111,"New car dealers",2019,942836,918326,24510,2.67
+44111,"New car dealers",2020,905494,942836,-37342,-3.96
+44111,"New car dealers",2021,1095667,905494,190173,21.00
+44111,"New car dealers",2022,1123378,1095667,27711,2.53
+44112,"Used car dealers",2010,71707,NULL,NULL,NULL
+44112,"Used car dealers",2011,75717,71707,4010,5.59
+44112,"Used car dealers",2012,80228,75717,4511,5.96
+44112,"Used car dealers",2013,84709,80228,4481,5.59
+44112,"Used car dealers",2014,92108,84709,7399,8.73
+44112,"Used car dealers",2015,101071,92108,8963,9.73
+44112,"Used car dealers",2016,108360,101071,7289,7.21
+44112,"Used car dealers",2017,114100,108360,5740,5.30
+44112,"Used car dealers",2018,117359,114100,3259,2.86
+44112,"Used car dealers",2019,122713,117359,5354,4.56
+44112,"Used car dealers",2020,117678,122713,-5035,-4.10
+44112,"Used car dealers",2021,162203,117678,44525,37.84
+44112,"Used car dealers",2022,160811,162203,-1392,-0.86
+4413,"Automotive parts, acc., and tire stores",2010,77939,NULL,NULL,NULL
+4413,"Automotive parts, acc., and tire stores",2011,82964,77939,5025,6.45
+4413,"Automotive parts, acc., and tire stores",2012,84135,82964,1171,1.41
+4413,"Automotive parts, acc., and tire stores",2013,85529,84135,1394,1.66
+4413,"Automotive parts, acc., and tire stores",2014,86808,85529,1279,1.50
+4413,"Automotive parts, acc., and tire stores",2015,90897,86808,4089,4.71
+4413,"Automotive parts, acc., and tire stores",2016,92653,90897,1756,1.93
+4413,"Automotive parts, acc., and tire stores",2017,93443,92653,790,0.85
+4413,"Automotive parts, acc., and tire stores",2018,94947,93443,1504,1.61
+4413,"Automotive parts, acc., and tire stores",2019,96788,94947,1841,1.94
+4413,"Automotive parts, acc., and tire stores",2020,97983,96788,1195,1.23
+4413,"Automotive parts, acc., and tire stores",2021,112085,97983,14102,14.39
+4413,"Automotive parts, acc., and tire stores",2022,124193,112085,12108,10.80
+442,"Furniture and home furnishings stores",2010,85205,NULL,NULL,NULL
+442,"Furniture and home furnishings stores",2011,87586,85205,2381,2.79
+442,"Furniture and home furnishings stores",2012,91542,87586,3956,4.52
+442,"Furniture and home furnishings stores",2013,95753,91542,4211,4.60
+442,"Furniture and home furnishings stores",2014,100551,95753,4798,5.01
+442,"Furniture and home furnishings stores",2015,107884,100551,7333,7.29
+442,"Furniture and home furnishings stores",2016,112320,107884,4436,4.11
+442,"Furniture and home furnishings stores",2017,115309,112320,2989,2.66
+442,"Furniture and home furnishings stores",2018,119026,115309,3717,3.22
+442,"Furniture and home furnishings stores",2019,120650,119026,1624,1.36
+442,"Furniture and home furnishings stores",2020,113023,120650,-7627,-6.32
+442,"Furniture and home furnishings stores",2021,141960,113023,28937,25.60
+442,"Furniture and home furnishings stores",2022,143457,141960,1497,1.05
+"442,443","Furniture, home furn, electronics, and appliance stores",2010,184794,NULL,NULL,NULL
+"442,443","Furniture, home furn, electronics, and appliance stores",2011,189564,184794,4770,2.58
+"442,443","Furniture, home furn, electronics, and appliance stores",2012,195424,189564,5860,3.09
+"442,443","Furniture, home furn, electronics, and appliance stores",2013,199264,195424,3840,1.96
+"442,443","Furniture, home furn, electronics, and appliance stores",2014,203395,199264,4131,2.07
+"442,443","Furniture, home furn, electronics, and appliance stores",2015,208059,203395,4664,2.29
+"442,443","Furniture, home furn, electronics, and appliance stores",2016,206283,208059,-1776,-0.85
+"442,443","Furniture, home furn, electronics, and appliance stores",2017,207733,206283,1450,0.70
+"442,443","Furniture, home furn, electronics, and appliance stores",2018,213131,207733,5398,2.60
+"442,443","Furniture, home furn, electronics, and appliance stores",2019,211584,213131,-1547,-0.73
+"442,443","Furniture, home furn, electronics, and appliance stores",2020,189001,211584,-22583,-10.67
+"442,443","Furniture, home furn, electronics, and appliance stores",2021,236141,189001,47140,24.94
+"442,443","Furniture, home furn, electronics, and appliance stores",2022,230453,236141,-5688,-2.41
+4421,"Furniture stores",2010,46664,NULL,NULL,NULL
+4421,"Furniture stores",2011,47658,46664,994,2.13
+4421,"Furniture stores",2012,49752,47658,2094,4.39
+4421,"Furniture stores",2013,51200,49752,1448,2.91
+4421,"Furniture stores",2014,53921,51200,2721,5.31
+4421,"Furniture stores",2015,58328,53921,4407,8.17
+4421,"Furniture stores",2016,60295,58328,1967,3.37
+4421,"Furniture stores",2017,61288,60295,993,1.65
+4421,"Furniture stores",2018,63301,61288,2013,3.28
+4421,"Furniture stores",2019,64198,63301,897,1.42
+4421,"Furniture stores",2020,62238,64198,-1960,-3.05
+4421,"Furniture stores",2021,78143,62238,15905,25.56
+4421,"Furniture stores",2022,78957,78143,814,1.04
+4422,"Home furnishings stores",2010,38541,NULL,NULL,NULL
+4422,"Home furnishings stores",2011,39928,38541,1387,3.60
+4422,"Home furnishings stores",2012,41790,39928,1862,4.66
+4422,"Home furnishings stores",2013,44553,41790,2763,6.61
+4422,"Home furnishings stores",2014,46630,44553,2077,4.66
+4422,"Home furnishings stores",2015,49556,46630,2926,6.27
+4422,"Home furnishings stores",2016,52025,49556,2469,4.98
+4422,"Home furnishings stores",2017,54021,52025,1996,3.84
+4422,"Home furnishings stores",2018,55725,54021,1704,3.15
+4422,"Home furnishings stores",2019,56452,55725,727,1.30
+4422,"Home furnishings stores",2020,35131,56452,-21321,-37.77
+4422,"Home furnishings stores",2021,NULL,35131,NULL,NULL
+4422,"Home furnishings stores",2022,NULL,NULL,NULL,NULL
+44221,"Floor covering stores",2010,14573,NULL,NULL,NULL
+44221,"Floor covering stores",2011,14758,14573,185,1.27
+44221,"Floor covering stores",2012,15483,14758,725,4.91
+44221,"Floor covering stores",2013,16893,15483,1410,9.11
+44221,"Floor covering stores",2014,18023,16893,1130,6.69
+44221,"Floor covering stores",2015,19524,18023,1501,8.33
+44221,"Floor covering stores",2016,20961,19524,1437,7.36
+44221,"Floor covering stores",2017,2974,20961,-17987,-85.81
+44221,"Floor covering stores",2018,NULL,2974,NULL,NULL
+44221,"Floor covering stores",2019,NULL,NULL,NULL,NULL
+44221,"Floor covering stores",2020,NULL,NULL,NULL,NULL
+44221,"Floor covering stores",2021,NULL,NULL,NULL,NULL
+44221,"Floor covering stores",2022,NULL,NULL,NULL,NULL
+442299,"All other home furnishings stores",2010,22868,NULL,NULL,NULL
+442299,"All other home furnishings stores",2011,24080,22868,1212,5.30
+442299,"All other home furnishings stores",2012,25195,24080,1115,4.63
+442299,"All other home furnishings stores",2013,26428,25195,1233,4.89
+442299,"All other home furnishings stores",2014,27241,26428,813,3.08
+442299,"All other home furnishings stores",2015,28607,27241,1366,5.01
+442299,"All other home furnishings stores",2016,29513,28607,906,3.17
+442299,"All other home furnishings stores",2017,29876,29513,363,1.23
+442299,"All other home furnishings stores",2018,30045,29876,169,0.57
+442299,"All other home furnishings stores",2019,30597,30045,552,1.84
+442299,"All other home furnishings stores",2020,16761,30597,-13836,-45.22
+442299,"All other home furnishings stores",2021,NULL,16761,NULL,NULL
+442299,"All other home furnishings stores",2022,NULL,NULL,NULL,NULL
+443,"Electronics and appliance stores",2010,99589,NULL,NULL,NULL
+443,"Electronics and appliance stores",2011,101978,99589,2389,2.40
+443,"Electronics and appliance stores",2012,103882,101978,1904,1.87
+443,"Electronics and appliance stores",2013,103511,103882,-371,-0.36
+443,"Electronics and appliance stores",2014,102844,103511,-667,-0.64
+443,"Electronics and appliance stores",2015,100175,102844,-2669,-2.60
+443,"Electronics and appliance stores",2016,93963,100175,-6212,-6.20
+443,"Electronics and appliance stores",2017,92424,93963,-1539,-1.64
+443,"Electronics and appliance stores",2018,94105,92424,1681,1.82
+443,"Electronics and appliance stores",2019,90934,94105,-3171,-3.37
+443,"Electronics and appliance stores",2020,75978,90934,-14956,-16.45
+443,"Electronics and appliance stores",2021,94181,75978,18203,23.96
+443,"Electronics and appliance stores",2022,86996,94181,-7185,-7.63
+443141,"Household appliance stores",2010,15456,NULL,NULL,NULL
+443141,"Household appliance stores",2011,15807,15456,351,2.27
+443141,"Household appliance stores",2012,16415,15807,608,3.85
+443141,"Household appliance stores",2013,17194,16415,779,4.75
+443141,"Household appliance stores",2014,17202,17194,8,0.05
+443141,"Household appliance stores",2015,17294,17202,92,0.53
+443141,"Household appliance stores",2016,17527,17294,233,1.35
+443141,"Household appliance stores",2017,16806,17527,-721,-4.11
+443141,"Household appliance stores",2018,16938,16806,132,0.79
+443141,"Household appliance stores",2019,16925,16938,-13,-0.08
+443141,"Household appliance stores",2020,18202,16925,1277,7.55
+443141,"Household appliance stores",2021,21241,18202,3039,16.70
+443141,"Household appliance stores",2022,20559,21241,-682,-3.21
+443142,"Electronics stores",2010,84133,NULL,NULL,NULL
+443142,"Electronics stores",2011,86171,84133,2038,2.42
+443142,"Electronics stores",2012,87467,86171,1296,1.50
+443142,"Electronics stores",2013,86317,87467,-1150,-1.31
+443142,"Electronics stores",2014,85642,86317,-675,-0.78
+443142,"Electronics stores",2015,82881,85642,-2761,-3.22
+443142,"Electronics stores",2016,76436,82881,-6445,-7.78
+443142,"Electronics stores",2017,75618,76436,-818,-1.07
+443142,"Electronics stores",2018,77167,75618,1549,2.05
+443142,"Electronics stores",2019,74009,77167,-3158,-4.09
+443142,"Electronics stores",2020,57776,74009,-16233,-21.93
+443142,"Electronics stores",2021,72940,57776,15164,26.25
+443142,"Electronics stores",2022,66437,72940,-6503,-8.92
+444,"Building mat. and garden equip. and supplies dealers",2010,260566,NULL,NULL,NULL
+444,"Building mat. and garden equip. and supplies dealers",2011,269480,260566,8914,3.42
+444,"Building mat. and garden equip. and supplies dealers",2012,281533,269480,12053,4.47
+444,"Building mat. and garden equip. and supplies dealers",2013,299578,281533,18045,6.41
+444,"Building mat. and garden equip. and supplies dealers",2014,313527,299578,13949,4.66
+444,"Building mat. and garden equip. and supplies dealers",2015,323979,313527,10452,3.33
+444,"Building mat. and garden equip. and supplies dealers",2016,337699,323979,13720,4.23
+444,"Building mat. and garden equip. and supplies dealers",2017,349365,337699,11666,3.45
+444,"Building mat. and garden equip. and supplies dealers",2018,367655,349365,18290,5.24
+444,"Building mat. and garden equip. and supplies dealers",2019,373321,367655,5666,1.54
+444,"Building mat. and garden equip. and supplies dealers",2020,422211,373321,48890,13.10
+444,"Building mat. and garden equip. and supplies dealers",2021,477790,422211,55579,13.16
+444,"Building mat. and garden equip. and supplies dealers",2022,509748,477790,31958,6.69
+4441,"Building mat. and supplies dealers",2010,225712,NULL,NULL,NULL
+4441,"Building mat. and supplies dealers",2011,232649,225712,6937,3.07
+4441,"Building mat. and supplies dealers",2012,242176,232649,9527,4.10
+4441,"Building mat. and supplies dealers",2013,257726,242176,15550,6.42
+4441,"Building mat. and supplies dealers",2014,270148,257726,12422,4.82
+4441,"Building mat. and supplies dealers",2015,281279,270148,11131,4.12
+4441,"Building mat. and supplies dealers",2016,294954,281279,13675,4.86
+4441,"Building mat. and supplies dealers",2017,305471,294954,10517,3.57
+4441,"Building mat. and supplies dealers",2018,322681,305471,17210,5.63
+4441,"Building mat. and supplies dealers",2019,327257,322681,4576,1.42
+4441,"Building mat. and supplies dealers",2020,368503,327257,41246,12.60
+4441,"Building mat. and supplies dealers",2021,416262,368503,47759,12.96
+4441,"Building mat. and supplies dealers",2022,444455,416262,28193,6.77
+44412,"Paint and wallpaper stores",2010,7972,NULL,NULL,NULL
+44412,"Paint and wallpaper stores",2011,8423,7972,451,5.66
+44412,"Paint and wallpaper stores",2012,9134,8423,711,8.44
+44412,"Paint and wallpaper stores",2013,9419,9134,285,3.12
+44412,"Paint and wallpaper stores",2014,10233,9419,814,8.64
+44412,"Paint and wallpaper stores",2015,10605,10233,372,3.64
+44412,"Paint and wallpaper stores",2016,10974,10605,369,3.48
+44412,"Paint and wallpaper stores",2017,11536,10974,562,5.12
+44412,"Paint and wallpaper stores",2018,12208,11536,672,5.83
+44412,"Paint and wallpaper stores",2019,12642,12208,434,3.56
+44412,"Paint and wallpaper stores",2020,13743,12642,1101,8.71
+44412,"Paint and wallpaper stores",2021,15000,13743,1257,9.15
+44412,"Paint and wallpaper stores",2022,16676,15000,1676,11.17
+44413,"Hardware stores",2010,18706,NULL,NULL,NULL
+44413,"Hardware stores",2011,20041,18706,1335,7.14
+44413,"Hardware stores",2012,20747,20041,706,3.52
+44413,"Hardware stores",2013,21229,20747,482,2.32
+44413,"Hardware stores",2014,23002,21229,1773,8.35
+44413,"Hardware stores",2015,23719,23002,717,3.12
+44413,"Hardware stores",2016,24463,23719,744,3.14
+44413,"Hardware stores",2017,25891,24463,1428,5.84
+44413,"Hardware stores",2018,28059,25891,2168,8.37
+44413,"Hardware stores",2019,29360,28059,1301,4.64
+44413,"Hardware stores",2020,35393,29360,6033,20.55
+44413,"Hardware stores",2021,37765,35393,2372,6.70
+44413,"Hardware stores",2022,40734,37765,2969,7.86
+445,"Food and beverage stores",2010,580530,NULL,NULL,NULL
+445,"Food and beverage stores",2011,609137,580530,28607,4.93
+445,"Food and beverage stores",2012,628205,609137,19068,3.13
+445,"Food and beverage stores",2013,641515,628205,13310,2.12
+445,"Food and beverage stores",2014,670473,641515,28958,4.51
+445,"Food and beverage stores",2015,687375,670473,16902,2.52
+445,"Food and beverage stores",2016,702020,687375,14645,2.13
+445,"Food and beverage stores",2017,728843,702020,26823,3.82
+445,"Food and beverage stores",2018,749867,728843,21024,2.88
+445,"Food and beverage stores",2019,775014,749867,25147,3.35
+445,"Food and beverage stores",2020,850215,775014,75201,9.70
+445,"Food and beverage stores",2021,880260,850215,30045,3.53
+445,"Food and beverage stores",2022,947550,880260,67290,7.64
+4451,"Grocery stores",2010,520750,NULL,NULL,NULL
+4451,"Grocery stores",2011,547476,520750,26726,5.13
+4451,"Grocery stores",2012,563645,547476,16169,2.95
+4451,"Grocery stores",2013,575476,563645,11831,2.10
+4451,"Grocery stores",2014,601498,575476,26022,4.52
+4451,"Grocery stores",2015,616086,601498,14588,2.43
+4451,"Grocery stores",2016,627871,616086,11785,1.91
+4451,"Grocery stores",2017,653178,627871,25307,4.03
+4451,"Grocery stores",2018,671329,653178,18151,2.78
+4451,"Grocery stores",2019,694370,671329,23041,3.43
+4451,"Grocery stores",2020,759748,694370,65378,9.42
+4451,"Grocery stores",2021,783165,759748,23417,3.08
+4451,"Grocery stores",2022,848605,783165,65440,8.36
+44511,"Supermarkets and other grocery (except convenience) stores",2010,498006,NULL,NULL,NULL
+44511,"Supermarkets and other grocery (except convenience) stores",2011,523371,498006,25365,5.09
+44511,"Supermarkets and other grocery (except convenience) stores",2012,539180,523371,15809,3.02
+44511,"Supermarkets and other grocery (except convenience) stores",2013,549986,539180,10806,2.00
+44511,"Supermarkets and other grocery (except convenience) stores",2014,575675,549986,25689,4.67
+44511,"Supermarkets and other grocery (except convenience) stores",2015,590715,575675,15040,2.61
+44511,"Supermarkets and other grocery (except convenience) stores",2016,600946,590715,10231,1.73
+44511,"Supermarkets and other grocery (except convenience) stores",2017,624972,600946,24026,4.00
+44511,"Supermarkets and other grocery (except convenience) stores",2018,640235,624972,15263,2.44
+44511,"Supermarkets and other grocery (except convenience) stores",2019,661915,640235,21680,3.39
+44511,"Supermarkets and other grocery (except convenience) stores",2020,728863,661915,66948,10.11
+44511,"Supermarkets and other grocery (except convenience) stores",2021,747838,728863,18975,2.60
+44511,"Supermarkets and other grocery (except convenience) stores",2022,810518,747838,62680,8.38
+4453,"Beer, wine, and liquor stores",2010,41401,NULL,NULL,NULL
+4453,"Beer, wine, and liquor stores",2011,42392,41401,991,2.39
+4453,"Beer, wine, and liquor stores",2012,44365,42392,1973,4.65
+4453,"Beer, wine, and liquor stores",2013,45647,44365,1282,2.89
+4453,"Beer, wine, and liquor stores",2014,47395,45647,1748,3.83
+4453,"Beer, wine, and liquor stores",2015,49156,47395,1761,3.72
+4453,"Beer, wine, and liquor stores",2016,51253,49156,2097,4.27
+4453,"Beer, wine, and liquor stores",2017,52622,51253,1369,2.67
+4453,"Beer, wine, and liquor stores",2018,55089,52622,2467,4.69
+4453,"Beer, wine, and liquor stores",2019,56982,55089,1893,3.44
+4453,"Beer, wine, and liquor stores",2020,66310,56982,9328,16.37
+4453,"Beer, wine, and liquor stores",2021,70164,66310,3854,5.81
+4453,"Beer, wine, and liquor stores",2022,71535,70164,1371,1.95
+446,"Health and personal care stores",2010,260435,NULL,NULL,NULL
+446,"Health and personal care stores",2011,271612,260435,11177,4.29
+446,"Health and personal care stores",2012,274000,271612,2388,0.88
+446,"Health and personal care stores",2013,279551,274000,5551,2.03
+446,"Health and personal care stores",2014,294566,279551,15015,5.37
+446,"Health and personal care stores",2015,307891,294566,13325,4.52
+446,"Health and personal care stores",2016,318928,307891,11037,3.58
+446,"Health and personal care stores",2017,323866,318928,4938,1.55
+446,"Health and personal care stores",2018,337799,323866,13933,4.30
+446,"Health and personal care stores",2019,344045,337799,6246,1.85
+446,"Health and personal care stores",2020,351257,344045,7212,2.10
+446,"Health and personal care stores",2021,385388,351257,34131,9.72
+446,"Health and personal care stores",2022,399697,385388,14309,3.71
+44611,"Pharmacies and drug stores",2010,222230,NULL,NULL,NULL
+44611,"Pharmacies and drug stores",2011,231249,222230,9019,4.06
+44611,"Pharmacies and drug stores",2012,229951,231249,-1298,-0.56
+44611,"Pharmacies and drug stores",2013,233636,229951,3685,1.60
+44611,"Pharmacies and drug stores",2014,246639,233636,13003,5.57
+44611,"Pharmacies and drug stores",2015,257355,246639,10716,4.34
+44611,"Pharmacies and drug stores",2016,265546,257355,8191,3.18
+44611,"Pharmacies and drug stores",2017,269054,265546,3508,1.32
+44611,"Pharmacies and drug stores",2018,279613,269054,10559,3.92
+44611,"Pharmacies and drug stores",2019,284622,279613,5009,1.79
+44611,"Pharmacies and drug stores",2020,298786,284622,14164,4.98
+44611,"Pharmacies and drug stores",2021,320095,298786,21309,7.13
+44611,"Pharmacies and drug stores",2022,328769,320095,8674,2.71
+447,"Gasoline stations",2010,448349,NULL,NULL,NULL
+447,"Gasoline stations",2011,533457,448349,85108,18.98
+447,"Gasoline stations",2012,555419,533457,21962,4.12
+447,"Gasoline stations",2013,553712,555419,-1707,-0.31
+447,"Gasoline stations",2014,546962,553712,-6750,-1.22
+447,"Gasoline stations",2015,455602,546962,-91360,-16.70
+447,"Gasoline stations",2016,435967,455602,-19635,-4.31
+447,"Gasoline stations",2017,476152,435967,40185,9.22
+447,"Gasoline stations",2018,522921,476152,46769,9.82
+447,"Gasoline stations",2019,513508,522921,-9413,-1.80
+447,"Gasoline stations",2020,428076,513508,-85432,-16.64
+447,"Gasoline stations",2021,583495,428076,155419,36.31
+447,"Gasoline stations",2022,757901,583495,174406,29.89
+448,"Clothing and clothing access. stores",2010,213286,NULL,NULL,NULL
+448,"Clothing and clothing access. stores",2011,228606,213286,15320,7.18
+448,"Clothing and clothing access. stores",2012,239493,228606,10887,4.76
+448,"Clothing and clothing access. stores",2013,245162,239493,5669,2.37
+448,"Clothing and clothing access. stores",2014,251336,245162,6174,2.52
+448,"Clothing and clothing access. stores",2015,257279,251336,5943,2.36
+448,"Clothing and clothing access. stores",2016,261488,257279,4209,1.64
+448,"Clothing and clothing access. stores",2017,261396,261488,-92,-0.04
+448,"Clothing and clothing access. stores",2018,267482,261396,6086,2.33
+448,"Clothing and clothing access. stores",2019,269537,267482,2055,0.77
+448,"Clothing and clothing access. stores",2020,201422,269537,-68115,-25.27
+448,"Clothing and clothing access. stores",2021,294062,201422,92640,45.99
+448,"Clothing and clothing access. stores",2022,312387,294062,18325,6.23
+4481,"Clothing stores",2010,158276,NULL,NULL,NULL
+4481,"Clothing stores",2011,168095,158276,9819,6.20
+4481,"Clothing stores",2012,176131,168095,8036,4.78
+4481,"Clothing stores",2013,179167,176131,3036,1.72
+4481,"Clothing stores",2014,183488,179167,4321,2.41
+4481,"Clothing stores",2015,187751,183488,4263,2.32
+4481,"Clothing stores",2016,190616,187751,2865,1.53
+4481,"Clothing stores",2017,191108,190616,492,0.26
+4481,"Clothing stores",2018,195165,191108,4057,2.12
+4481,"Clothing stores",2019,196065,195165,900,0.46
+4481,"Clothing stores",2020,138285,196065,-57780,-29.47
+4481,"Clothing stores",2021,198533,138285,60248,43.57
+4481,"Clothing stores",2022,213720,198533,15187,7.65
+44811,"Men's clothing stores",2010,7285,NULL,NULL,NULL
+44811,"Men's clothing stores",2011,7860,7285,575,7.89
+44811,"Men's clothing stores",2012,8272,7860,412,5.24
+44811,"Men's clothing stores",2013,8838,8272,566,6.84
+44811,"Men's clothing stores",2014,9226,8838,388,4.39
+44811,"Men's clothing stores",2015,9361,9226,135,1.46
+44811,"Men's clothing stores",2016,9272,9361,-89,-0.95
+44811,"Men's clothing stores",2017,9296,9272,24,0.26
+44811,"Men's clothing stores",2018,9288,9296,-8,-0.09
+44811,"Men's clothing stores",2019,9304,9288,16,0.17
+44811,"Men's clothing stores",2020,4135,9304,-5169,-55.56
+44811,"Men's clothing stores",2021,2090,4135,-2045,-49.46
+44811,"Men's clothing stores",2022,NULL,2090,NULL,NULL
+44812,"Women's clothing stores",2010,37690,NULL,NULL,NULL
+44812,"Women's clothing stores",2011,40048,37690,2358,6.26
+44812,"Women's clothing stores",2012,41794,40048,1746,4.36
+44812,"Women's clothing stores",2013,41586,41794,-208,-0.50
+44812,"Women's clothing stores",2014,41175,41586,-411,-0.99
+44812,"Women's clothing stores",2015,40471,41175,-704,-1.71
+44812,"Women's clothing stores",2016,40065,40471,-406,-1.00
+44812,"Women's clothing stores",2017,39212,40065,-853,-2.13
+44812,"Women's clothing stores",2018,39891,39212,679,1.73
+44812,"Women's clothing stores",2019,38382,39891,-1509,-3.78
+44812,"Women's clothing stores",2020,27807,38382,-10575,-27.55
+44812,"Women's clothing stores",2021,38865,27807,11058,39.77
+44812,"Women's clothing stores",2022,40531,38865,1666,4.29
+44814,"Family clothing stores",2010,84508,NULL,NULL,NULL
+44814,"Family clothing stores",2011,88272,84508,3764,4.45
+44814,"Family clothing stores",2012,92631,88272,4359,4.94
+44814,"Family clothing stores",2013,95295,92631,2664,2.88
+44814,"Family clothing stores",2014,97973,95295,2678,2.81
+44814,"Family clothing stores",2015,101010,97973,3037,3.10
+44814,"Family clothing stores",2016,103360,101010,2350,2.33
+44814,"Family clothing stores",2017,105212,103360,1852,1.79
+44814,"Family clothing stores",2018,109175,105212,3963,3.77
+44814,"Family clothing stores",2019,112411,109175,3236,2.96
+44814,"Family clothing stores",2020,79372,112411,-33039,-29.39
+44814,"Family clothing stores",2021,114793,79372,35421,44.63
+44814,"Family clothing stores",2022,122026,114793,7233,6.30
+44819,"Other clothing stores",2010,11704,NULL,NULL,NULL
+44819,"Other clothing stores",2011,12671,11704,967,8.26
+44819,"Other clothing stores",2012,13941,12671,1270,10.02
+44819,"Other clothing stores",2013,14556,13941,615,4.41
+44819,"Other clothing stores",2014,15604,14556,1048,7.20
+44819,"Other clothing stores",2015,16997,15604,1393,8.93
+44819,"Other clothing stores",2016,17878,16997,881,5.18
+44819,"Other clothing stores",2017,17822,17878,-56,-0.31
+44819,"Other clothing stores",2018,17901,17822,79,0.44
+44819,"Other clothing stores",2019,17376,17901,-525,-2.93
+44819,"Other clothing stores",2020,12107,17376,-5269,-30.32
+44819,"Other clothing stores",2021,16973,12107,4866,40.19
+44819,"Other clothing stores",2022,17553,16973,580,3.42
+4482,"Shoe stores",2010,27233,NULL,NULL,NULL
+4482,"Shoe stores",2011,29260,27233,2027,7.44
+4482,"Shoe stores",2012,31039,29260,1779,6.08
+4482,"Shoe stores",2013,32760,31039,1721,5.54
+4482,"Shoe stores",2014,33964,32760,1204,3.68
+4482,"Shoe stores",2015,35313,33964,1349,3.97
+4482,"Shoe stores",2016,36916,35313,1603,4.54
+4482,"Shoe stores",2017,36332,36916,-584,-1.58
+4482,"Shoe stores",2018,37063,36332,731,2.01
+4482,"Shoe stores",2019,37413,37063,350,0.94
+4482,"Shoe stores",2020,29275,37413,-8138,-21.75
+4482,"Shoe stores",2021,40129,29275,10854,37.08
+4482,"Shoe stores",2022,40588,40129,459,1.14
+44831,"Jewelry stores",2010,25909,NULL,NULL,NULL
+44831,"Jewelry stores",2011,29050,25909,3141,12.12
+44831,"Jewelry stores",2012,29862,29050,812,2.80
+44831,"Jewelry stores",2013,30444,29862,582,1.95
+44831,"Jewelry stores",2014,31197,30444,753,2.47
+44831,"Jewelry stores",2015,31438,31197,241,0.77
+44831,"Jewelry stores",2016,30937,31438,-501,-1.59
+44831,"Jewelry stores",2017,30988,30937,51,0.16
+44831,"Jewelry stores",2018,32061,30988,1073,3.46
+44831,"Jewelry stores",2019,32452,32061,391,1.22
+44831,"Jewelry stores",2020,30758,32452,-1694,-5.22
+44831,"Jewelry stores",2021,5544,30758,-25214,-81.98
+44831,"Jewelry stores",2022,NULL,5544,NULL,NULL
+451,"Sporting goods, hobby, musical instrument, and book stores",2010,78227,NULL,NULL,NULL
+451,"Sporting goods, hobby, musical instrument, and book stores",2011,78647,78227,420,0.54
+451,"Sporting goods, hobby, musical instrument, and book stores",2012,81159,78647,2512,3.19
+451,"Sporting goods, hobby, musical instrument, and book stores",2013,82731,81159,1572,1.94
+451,"Sporting goods, hobby, musical instrument, and book stores",2014,83547,82731,816,0.99
+451,"Sporting goods, hobby, musical instrument, and book stores",2015,85401,83547,1854,2.22
+451,"Sporting goods, hobby, musical instrument, and book stores",2016,86223,85401,822,0.96
+451,"Sporting goods, hobby, musical instrument, and book stores",2017,83896,86223,-2327,-2.70
+451,"Sporting goods, hobby, musical instrument, and book stores",2018,80208,83896,-3688,-4.40
+451,"Sporting goods, hobby, musical instrument, and book stores",2019,79807,80208,-401,-0.50
+451,"Sporting goods, hobby, musical instrument, and book stores",2020,84363,79807,4556,5.71
+451,"Sporting goods, hobby, musical instrument, and book stores",2021,107851,84363,23488,27.84
+451,"Sporting goods, hobby, musical instrument, and book stores",2022,110968,107851,3117,2.89
+45111,"Sporting goods stores",2010,37407,NULL,NULL,NULL
+45111,"Sporting goods stores",2011,38995,37407,1588,4.25
+45111,"Sporting goods stores",2012,42142,38995,3147,8.07
+45111,"Sporting goods stores",2013,44578,42142,2436,5.78
+45111,"Sporting goods stores",2014,45097,44578,519,1.16
+45111,"Sporting goods stores",2015,46906,45097,1809,4.01
+45111,"Sporting goods stores",2016,48103,46906,1197,2.55
+45111,"Sporting goods stores",2017,45965,48103,-2138,-4.44
+45111,"Sporting goods stores",2018,44077,45965,-1888,-4.11
+45111,"Sporting goods stores",2019,45148,44077,1071,2.43
+45111,"Sporting goods stores",2020,52900,45148,7752,17.17
+45111,"Sporting goods stores",2021,65723,52900,12823,24.24
+45111,"Sporting goods stores",2022,66816,65723,1093,1.66
+45112,"Hobby, toy, and game stores",2010,15805,NULL,NULL,NULL
+45112,"Hobby, toy, and game stores",2011,16119,15805,314,1.99
+45112,"Hobby, toy, and game stores",2012,16620,16119,501,3.11
+45112,"Hobby, toy, and game stores",2013,16919,16620,299,1.80
+45112,"Hobby, toy, and game stores",2014,17433,16919,514,3.04
+45112,"Hobby, toy, and game stores",2015,18045,17433,612,3.51
+45112,"Hobby, toy, and game stores",2016,18399,18045,354,1.96
+45112,"Hobby, toy, and game stores",2017,18147,18399,-252,-1.37
+45112,"Hobby, toy, and game stores",2018,16892,18147,-1255,-6.92
+45112,"Hobby, toy, and game stores",2019,16435,16892,-457,-2.71
+45112,"Hobby, toy, and game stores",2020,17027,16435,592,3.60
+45112,"Hobby, toy, and game stores",2021,23641,17027,6614,38.84
+45112,"Hobby, toy, and game stores",2022,25162,23641,1521,6.43
+451211,"Book stores",2010,15238,NULL,NULL,NULL
+451211,"Book stores",2011,13716,15238,-1522,-9.99
+451211,"Book stores",2012,12269,13716,-1447,-10.55
+451211,"Book stores",2013,11442,12269,-827,-6.74
+451211,"Book stores",2014,11237,11442,-205,-1.79
+451211,"Book stores",2015,10872,11237,-365,-3.25
+451211,"Book stores",2016,10572,10872,-300,-2.76
+451211,"Book stores",2017,10329,10572,-243,-2.30
+451211,"Book stores",2018,9525,10329,-804,-7.78
+451211,"Book stores",2019,8931,9525,-594,-6.24
+451211,"Book stores",2020,6163,8931,-2768,-30.99
+451211,"Book stores",2021,8470,6163,2307,37.43
+451211,"Book stores",2022,8993,8470,523,6.17
+452,"General merchandise stores",2010,603757,NULL,NULL,NULL
+452,"General merchandise stores",2011,624766,603757,21009,3.48
+452,"General merchandise stores",2012,642313,624766,17547,2.81
+452,"General merchandise stores",2013,653572,642313,11259,1.75
+452,"General merchandise stores",2014,670608,653572,17036,2.61
+452,"General merchandise stores",2015,680127,670608,9519,1.42
+452,"General merchandise stores",2016,682698,680127,2571,0.38
+452,"General merchandise stores",2017,691891,682698,9193,1.35
+452,"General merchandise stores",2018,707088,691891,15197,2.20
+452,"General merchandise stores",2019,716467,707088,9379,1.33
+452,"General merchandise stores",2020,730570,716467,14103,1.97
+452,"General merchandise stores",2021,804289,730570,73719,10.09
+452,"General merchandise stores",2022,830345,804289,26056,3.24
+4521,"Department stores",2010,184755,NULL,NULL,NULL
+4521,"Department stores",2011,183361,184755,-1394,-0.75
+4521,"Department stores",2012,177313,183361,-6048,-3.30
+4521,"Department stores",2013,170560,177313,-6753,-3.81
+4521,"Department stores",2014,168778,170560,-1782,-1.04
+4521,"Department stores",2015,165074,168778,-3704,-2.19
+4521,"Department stores",2016,154200,165074,-10874,-6.59
+4521,"Department stores",2017,146654,154200,-7546,-4.89
+4521,"Department stores",2018,142078,146654,-4576,-3.12
+4521,"Department stores",2019,134655,142078,-7423,-5.22
+4521,"Department stores",2020,112335,134655,-22320,-16.58
+4521,"Department stores",2021,132811,112335,20476,18.23
+4521,"Department stores",2022,134210,132811,1399,1.05
+452111,"Department stores(excl. discount department stores)",2010,64901,NULL,NULL,NULL
+452111,"Department stores(excl. discount department stores)",2011,65738,64901,837,1.29
+452111,"Department stores(excl. discount department stores)",2012,62961,65738,-2777,-4.22
+452111,"Department stores(excl. discount department stores)",2013,60029,62961,-2932,-4.66
+452111,"Department stores(excl. discount department stores)",2014,59419,60029,-610,-1.02
+452111,"Department stores(excl. discount department stores)",2015,57299,59419,-2120,-3.57
+452111,"Department stores(excl. discount department stores)",2016,52911,57299,-4388,-7.66
+452111,"Department stores(excl. discount department stores)",2017,48435,52911,-4476,-8.46
+452111,"Department stores(excl. discount department stores)",2018,44571,48435,-3864,-7.98
+452111,"Department stores(excl. discount department stores)",2019,39548,44571,-5023,-11.27
+452111,"Department stores(excl. discount department stores)",2020,21294,39548,-18254,-46.16
+452111,"Department stores(excl. discount department stores)",2021,30614,21294,9320,43.77
+452111,"Department stores(excl. discount department stores)",2022,32384,30614,1770,5.78
+452112,"Discount dept. stores",2010,119854,NULL,NULL,NULL
+452112,"Discount dept. stores",2011,117623,119854,-2231,-1.86
+452112,"Discount dept. stores",2012,114352,117623,-3271,-2.78
+452112,"Discount dept. stores",2013,110531,114352,-3821,-3.34
+452112,"Discount dept. stores",2014,109359,110531,-1172,-1.06
+452112,"Discount dept. stores",2015,107775,109359,-1584,-1.45
+452112,"Discount dept. stores",2016,101289,107775,-6486,-6.02
+452112,"Discount dept. stores",2017,98219,101289,-3070,-3.03
+452112,"Discount dept. stores",2018,97507,98219,-712,-0.72
+452112,"Discount dept. stores",2019,95107,97507,-2400,-2.46
+452112,"Discount dept. stores",2020,91041,95107,-4066,-4.28
+452112,"Discount dept. stores",2021,102197,91041,11156,12.25
+452112,"Discount dept. stores",2022,101826,102197,-371,-0.36
+4529,"Other general merchandise stores",2010,419002,NULL,NULL,NULL
+4529,"Other general merchandise stores",2011,441405,419002,22403,5.35
+4529,"Other general merchandise stores",2012,465000,441405,23595,5.35
+4529,"Other general merchandise stores",2013,483012,465000,18012,3.87
+4529,"Other general merchandise stores",2014,501830,483012,18818,3.90
+4529,"Other general merchandise stores",2015,515053,501830,13223,2.63
+4529,"Other general merchandise stores",2016,528498,515053,13445,2.61
+4529,"Other general merchandise stores",2017,545237,528498,16739,3.17
+4529,"Other general merchandise stores",2018,565010,545237,19773,3.63
+4529,"Other general merchandise stores",2019,581812,565010,16802,2.97
+4529,"Other general merchandise stores",2020,618235,581812,36423,6.26
+4529,"Other general merchandise stores",2021,671478,618235,53243,8.61
+4529,"Other general merchandise stores",2022,696135,671478,24657,3.67
+45291,"Warehouse clubs and superstores",2010,367993,NULL,NULL,NULL
+45291,"Warehouse clubs and superstores",2011,386343,367993,18350,4.99
+45291,"Warehouse clubs and superstores",2012,406309,386343,19966,5.17
+45291,"Warehouse clubs and superstores",2013,421029,406309,14720,3.62
+45291,"Warehouse clubs and superstores",2014,436743,421029,15714,3.73
+45291,"Warehouse clubs and superstores",2015,447051,436743,10308,2.36
+45291,"Warehouse clubs and superstores",2016,457178,447051,10127,2.27
+45291,"Warehouse clubs and superstores",2017,470180,457178,13002,2.84
+45291,"Warehouse clubs and superstores",2018,486683,470180,16503,3.51
+45291,"Warehouse clubs and superstores",2019,501333,486683,14650,3.01
+45291,"Warehouse clubs and superstores",2020,527095,501333,25762,5.14
+45291,"Warehouse clubs and superstores",2021,574998,527095,47903,9.09
+45291,"Warehouse clubs and superstores",2022,595004,574998,20006,3.48
+45299,"All other gen. merchandise stores",2010,51009,NULL,NULL,NULL
+45299,"All other gen. merchandise stores",2011,55062,51009,4053,7.95
+45299,"All other gen. merchandise stores",2012,58691,55062,3629,6.59
+45299,"All other gen. merchandise stores",2013,61983,58691,3292,5.61
+45299,"All other gen. merchandise stores",2014,65087,61983,3104,5.01
+45299,"All other gen. merchandise stores",2015,68002,65087,2915,4.48
+45299,"All other gen. merchandise stores",2016,71320,68002,3318,4.88
+45299,"All other gen. merchandise stores",2017,75057,71320,3737,5.24
+45299,"All other gen. merchandise stores",2018,78327,75057,3270,4.36
+45299,"All other gen. merchandise stores",2019,80479,78327,2152,2.75
+45299,"All other gen. merchandise stores",2020,91140,80479,10661,13.25
+45299,"All other gen. merchandise stores",2021,96480,91140,5340,5.86
+45299,"All other gen. merchandise stores",2022,101131,96480,4651,4.82
+453,"Miscellaneous store retailers",2010,104234,NULL,NULL,NULL
+453,"Miscellaneous store retailers",2011,108401,104234,4167,4.00
+453,"Miscellaneous store retailers",2012,110018,108401,1617,1.49
+453,"Miscellaneous store retailers",2013,112119,110018,2101,1.91
+453,"Miscellaneous store retailers",2014,115330,112119,3211,2.86
+453,"Miscellaneous store retailers",2015,118546,115330,3216,2.79
+453,"Miscellaneous store retailers",2016,120754,118546,2208,1.86
+453,"Miscellaneous store retailers",2017,123182,120754,2428,2.01
+453,"Miscellaneous store retailers",2018,128517,123182,5335,4.33
+453,"Miscellaneous store retailers",2019,130605,128517,2088,1.62
+453,"Miscellaneous store retailers",2020,126668,130605,-3937,-3.01
+453,"Miscellaneous store retailers",2021,162412,126668,35744,28.22
+453,"Miscellaneous store retailers",2022,186504,162412,24092,14.83
+4532,"Office supplies, stationery, and gift stores",2010,34310,NULL,NULL,NULL
+4532,"Office supplies, stationery, and gift stores",2011,34083,34310,-227,-0.66
+4532,"Office supplies, stationery, and gift stores",2012,33454,34083,-629,-1.85
+4532,"Office supplies, stationery, and gift stores",2013,33097,33454,-357,-1.07
+4532,"Office supplies, stationery, and gift stores",2014,32691,33097,-406,-1.23
+4532,"Office supplies, stationery, and gift stores",2015,31975,32691,-716,-2.19
+4532,"Office supplies, stationery, and gift stores",2016,31125,31975,-850,-2.66
+4532,"Office supplies, stationery, and gift stores",2017,30061,31125,-1064,-3.42
+4532,"Office supplies, stationery, and gift stores",2018,30316,30061,255,0.85
+4532,"Office supplies, stationery, and gift stores",2019,28874,30316,-1442,-4.76
+4532,"Office supplies, stationery, and gift stores",2020,23859,28874,-5015,-17.37
+4532,"Office supplies, stationery, and gift stores",2021,29633,23859,5774,24.20
+4532,"Office supplies, stationery, and gift stores",2022,32009,29633,2376,8.02
+45321,"Office supplies and stationery stores",2010,18774,NULL,NULL,NULL
+45321,"Office supplies and stationery stores",2011,18117,18774,-657,-3.50
+45321,"Office supplies and stationery stores",2012,17401,18117,-716,-3.95
+45321,"Office supplies and stationery stores",2013,16552,17401,-849,-4.88
+45321,"Office supplies and stationery stores",2014,15670,16552,-882,-5.33
+45321,"Office supplies and stationery stores",2015,14496,15670,-1174,-7.49
+45321,"Office supplies and stationery stores",2016,13288,14496,-1208,-8.33
+45321,"Office supplies and stationery stores",2017,12261,13288,-1027,-7.73
+45321,"Office supplies and stationery stores",2018,11358,12261,-903,-7.36
+45321,"Office supplies and stationery stores",2019,10702,11358,-656,-5.78
+45321,"Office supplies and stationery stores",2020,10277,10702,-425,-3.97
+45321,"Office supplies and stationery stores",2021,10275,10277,-2,-0.02
+45321,"Office supplies and stationery stores",2022,10124,10275,-151,-1.47
+45322,"Gift, novelty, and souvenir stores",2010,15536,NULL,NULL,NULL
+45322,"Gift, novelty, and souvenir stores",2011,15966,15536,430,2.77
+45322,"Gift, novelty, and souvenir stores",2012,16053,15966,87,0.54
+45322,"Gift, novelty, and souvenir stores",2013,16545,16053,492,3.06
+45322,"Gift, novelty, and souvenir stores",2014,17021,16545,476,2.88
+45322,"Gift, novelty, and souvenir stores",2015,17479,17021,458,2.69
+45322,"Gift, novelty, and souvenir stores",2016,17837,17479,358,2.05
+45322,"Gift, novelty, and souvenir stores",2017,17800,17837,-37,-0.21
+45322,"Gift, novelty, and souvenir stores",2018,18958,17800,1158,6.51
+45322,"Gift, novelty, and souvenir stores",2019,18172,18958,-786,-4.15
+45322,"Gift, novelty, and souvenir stores",2020,13582,18172,-4590,-25.26
+45322,"Gift, novelty, and souvenir stores",2021,19358,13582,5776,42.53
+45322,"Gift, novelty, and souvenir stores",2022,21885,19358,2527,13.05
+45330,"Used merchandise stores",2010,11800,NULL,NULL,NULL
+45330,"Used merchandise stores",2011,13248,11800,1448,12.27
+45330,"Used merchandise stores",2012,14728,13248,1480,11.17
+45330,"Used merchandise stores",2013,15167,14728,439,2.98
+45330,"Used merchandise stores",2014,15658,15167,491,3.24
+45330,"Used merchandise stores",2015,16152,15658,494,3.15
+45330,"Used merchandise stores",2016,16179,16152,27,0.17
+45330,"Used merchandise stores",2017,16739,16179,560,3.46
+45330,"Used merchandise stores",2018,17010,16739,271,1.62
+45330,"Used merchandise stores",2019,18021,17010,1011,5.94
+45330,"Used merchandise stores",2020,16362,18021,-1659,-9.21
+45330,"Used merchandise stores",2021,22488,16362,6126,37.44
+45330,"Used merchandise stores",2022,24339,22488,1851,8.23
+454,"Nonstore retailers",2010,340957,NULL,NULL,NULL
+454,"Nonstore retailers",2011,376344,340957,35387,10.38
+454,"Nonstore retailers",2012,408171,376344,31827,8.46
+454,"Nonstore retailers",2013,429977,408171,21806,5.34
+454,"Nonstore retailers",2014,464167,429977,34190,7.95
+454,"Nonstore retailers",2015,498331,464167,34164,7.36
+454,"Nonstore retailers",2016,544316,498331,45985,9.23
+454,"Nonstore retailers",2017,608194,544316,63878,11.74
+454,"Nonstore retailers",2018,675816,608194,67622,11.12
+454,"Nonstore retailers",2019,750640,675816,74824,11.07
+454,"Nonstore retailers",2020,978306,750640,227666,30.33
+454,"Nonstore retailers",2021,1153237,978306,174931,17.88
+454,"Nonstore retailers",2022,1283400,1153237,130163,11.29
+4541,"Electronic shopping and mail-order houses",2010,263488,NULL,NULL,NULL
+4541,"Electronic shopping and mail-order houses",2011,294697,263488,31209,11.84
+4541,"Electronic shopping and mail-order houses",2012,328655,294697,33958,11.52
+4541,"Electronic shopping and mail-order houses",2013,346163,328655,17508,5.33
+4541,"Electronic shopping and mail-order houses",2014,376891,346163,30728,8.88
+4541,"Electronic shopping and mail-order houses",2015,418960,376891,42069,11.16
+4541,"Electronic shopping and mail-order houses",2016,467278,418960,48318,11.53
+4541,"Electronic shopping and mail-order houses",2017,524639,467278,57361,12.28
+4541,"Electronic shopping and mail-order houses",2018,583789,524639,59150,11.27
+4541,"Electronic shopping and mail-order houses",2019,657089,583789,73300,12.56
+4541,"Electronic shopping and mail-order houses",2020,888502,657089,231413,35.22
+4541,"Electronic shopping and mail-order houses",2021,1046257,888502,157755,17.76
+4541,"Electronic shopping and mail-order houses",2022,1155353,1046257,109096,10.43
+45431,"Fuel dealers",2010,35524,NULL,NULL,NULL
+45431,"Fuel dealers",2011,39469,35524,3945,11.11
+45431,"Fuel dealers",2012,35935,39469,-3534,-8.95
+45431,"Fuel dealers",2013,38657,35935,2722,7.57
+45431,"Fuel dealers",2014,41670,38657,3013,7.79
+45431,"Fuel dealers",2015,32856,41670,-8814,-21.15
+45431,"Fuel dealers",2016,27587,32856,-5269,-16.04
+45431,"Fuel dealers",2017,31433,27587,3846,13.94
+45431,"Fuel dealers",2018,36617,31433,5184,16.49
+45431,"Fuel dealers",2019,34997,36617,-1620,-4.42
+45431,"Fuel dealers",2020,29240,34997,-5757,-16.45
+45431,"Fuel dealers",2021,35897,29240,6657,22.77
+45431,"Fuel dealers",2022,48509,35897,12612,35.13
+722,"Food services and drinking places",2010,466920,NULL,NULL,NULL
+722,"Food services and drinking places",2011,495350,466920,28430,6.09
+722,"Food services and drinking places",2012,524161,495350,28811,5.82
+722,"Food services and drinking places",2013,543507,524161,19346,3.69
+722,"Food services and drinking places",2014,576650,543507,33143,6.10
+722,"Food services and drinking places",2015,624175,576650,47525,8.24
+722,"Food services and drinking places",2016,657867,624175,33692,5.40
+722,"Food services and drinking places",2017,692649,657867,34782,5.29
+722,"Food services and drinking places",2018,732020,692649,39371,5.68
+722,"Food services and drinking places",2019,772748,732020,40728,5.56
+722,"Food services and drinking places",2020,649220,772748,-123528,-15.99
+722,"Food services and drinking places",2021,876337,649220,227117,34.98
+722,"Food services and drinking places",2022,1023888,876337,147551,16.84
+7224,"Drinking places",2010,20200,NULL,NULL,NULL
+7224,"Drinking places",2011,20568,20200,368,1.82
+7224,"Drinking places",2012,21421,20568,853,4.15
+7224,"Drinking places",2013,21231,21421,-190,-0.89
+7224,"Drinking places",2014,21194,21231,-37,-0.17
+7224,"Drinking places",2015,22014,21194,820,3.87
+7224,"Drinking places",2016,24048,22014,2034,9.24
+7224,"Drinking places",2017,25536,24048,1488,6.19
+7224,"Drinking places",2018,4055,25536,-21481,-84.12
+7224,"Drinking places",2019,NULL,4055,NULL,NULL
+7224,"Drinking places",2020,NULL,NULL,NULL,NULL
+7224,"Drinking places",2021,NULL,NULL,NULL,NULL
+7224,"Drinking places",2022,NULL,NULL,NULL,NULL
+7225,"Restaurants and other eating places",2010,401956,NULL,NULL,NULL
+7225,"Restaurants and other eating places",2011,428128,401956,26172,6.51
+7225,"Restaurants and other eating places",2012,453168,428128,25040,5.85
+7225,"Restaurants and other eating places",2013,471697,453168,18529,4.09
+7225,"Restaurants and other eating places",2014,502548,471697,30851,6.54
+7225,"Restaurants and other eating places",2015,545379,502548,42831,8.52
+7225,"Restaurants and other eating places",2016,573438,545379,28059,5.14
+7225,"Restaurants and other eating places",2017,604128,573438,30690,5.35
+7225,"Restaurants and other eating places",2018,639131,604128,35003,5.79
+7225,"Restaurants and other eating places",2019,674598,639131,35467,5.55
+7225,"Restaurants and other eating places",2020,583638,674598,-90960,-13.48
+7225,"Restaurants and other eating places",2021,774877,583638,191239,32.77
+7225,"Restaurants and other eating places",2022,889187,774877,114310,14.75
+722511,"Full service restaurants",2010,198699,NULL,NULL,NULL
+722511,"Full service restaurants",2011,213880,198699,15181,7.64
+722511,"Full service restaurants",2012,227210,213880,13330,6.23
+722511,"Full service restaurants",2013,236866,227210,9656,4.25
+722511,"Full service restaurants",2014,255437,236866,18571,7.84
+722511,"Full service restaurants",2015,276598,255437,21161,8.28
+722511,"Full service restaurants",2016,287935,276598,11337,4.10
+722511,"Full service restaurants",2017,301767,287935,13832,4.80
+722511,"Full service restaurants",2018,317874,301767,16107,5.34
+722511,"Full service restaurants",2019,333586,317874,15712,4.94
+722511,"Full service restaurants",2020,27604,333586,-305982,-91.73
+722511,"Full service restaurants",2021,NULL,27604,NULL,NULL
+722511,"Full service restaurants",2022,NULL,NULL,NULL,NULL
+"722513,722514,722515","Limited service eating places",2010,203257,NULL,NULL,NULL
+"722513,722514,722515","Limited service eating places",2011,214248,203257,10991,5.41
+"722513,722514,722515","Limited service eating places",2012,225958,214248,11710,5.47
+"722513,722514,722515","Limited service eating places",2013,234831,225958,8873,3.93
+"722513,722514,722515","Limited service eating places",2014,247111,234831,12280,5.23
+"722513,722514,722515","Limited service eating places",2015,268781,247111,21670,8.77
+"722513,722514,722515","Limited service eating places",2016,285503,268781,16722,6.22
+"722513,722514,722515","Limited service eating places",2017,302361,285503,16858,5.90
+"722513,722514,722515","Limited service eating places",2018,321257,302361,18896,6.25
+"722513,722514,722515","Limited service eating places",2019,341012,321257,19755,6.15
+"722513,722514,722515","Limited service eating places",2020,329837,341012,-11175,-3.28
+"722513,722514,722515","Limited service eating places",2021,392437,329837,62600,18.98
+"722513,722514,722515","Limited service eating places",2022,439923,392437,47486,12.10

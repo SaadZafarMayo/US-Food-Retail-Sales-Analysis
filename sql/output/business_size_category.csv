@@ -1,0 +1,59 @@
+industry,kind_of_business,total_sales,perc_rank,business_size
+Automotive,"Motor vehicle and parts dealers",14531121,0,LARGE
+Automotive,"Automobile and other motor vehicle dealers",13310756,20,LARGE
+Automotive,"Automobile dealers",12389347,40,MID
+Automotive,"New car dealers",10980583,60,MID
+Automotive,"Used car dealers",1408764,80,SMALL
+Automotive,"Automotive parts, acc., and tire stores",1220364,100,SMALL
+"Fashion & Accessories","Clothing and clothing access. stores",3302936,0,LARGE
+"Fashion & Accessories","Clothing stores",2376400,14.285714285714285,LARGE
+"Fashion & Accessories","Family clothing stores",1306038,28.57142857142857,MID
+"Fashion & Accessories","Women's clothing stores",507517,42.857142857142854,MID
+"Fashion & Accessories","Shoe stores",447285,57.14285714285714,MID
+"Fashion & Accessories","Jewelry stores",340640,71.42857142857143,SMALL
+"Fashion & Accessories","Other clothing stores",203083,85.71428571428571,SMALL
+"Fashion & Accessories","Men's clothing stores",94227,100,SMALL
+"Food & Beverage","Food and beverage stores",9451004,0,LARGE
+"Food & Beverage","Grocery stores",8463197,25,LARGE
+"Food & Beverage","Supermarkets and other grocery (except convenience) stores",8092220,50,MID
+"Food & Beverage","Warehouse clubs and superstores",6077939,75,SMALL
+"Food & Beverage","Beer, wine, and liquor stores",694311,100,SMALL
+"Fuel & Gasoline","Gasoline stations",6811521,0,LARGE
+"Fuel & Gasoline","Fuel dealers",468391,100,SMALL
+"General Merchandise","General merchandise stores",9038491,0,LARGE
+"General Merchandise","Other general merchandise stores",7031707,20,LARGE
+"General Merchandise","Department stores",2006784,40,MID
+"General Merchandise","Discount dept. stores",1366680,60,MID
+"General Merchandise","All other gen. merchandise stores",953768,80,SMALL
+"General Merchandise","Department stores(excl. discount department stores)",640104,100,SMALL
+"Health & Personal Care","Health and personal care stores",4149035,0,LARGE
+"Health & Personal Care","Pharmacies and drug stores",3467545,100,SMALL
+"Home Goods & Building Supplies","Building mat. and garden equip. and supplies dealers",4586452,0,LARGE
+"Home Goods & Building Supplies","Building mat. and supplies dealers",3989273,33.33333333333333,MID
+"Home Goods & Building Supplies","Hardware stores",349109,66.66666666666666,SMALL
+"Home Goods & Building Supplies","Paint and wallpaper stores",148565,100,SMALL
+"Home Goods & Electronics","Electronic shopping and mail-order houses",7351761,0,LARGE
+"Home Goods & Electronics","Furniture, home furn, electronics, and appliance stores",2674826,11.11111111111111,LARGE
+"Home Goods & Electronics","Furniture and home furnishings stores",1434266,22.22222222222222,LARGE
+"Home Goods & Electronics","Electronics and appliance stores",1240560,33.33333333333333,MID
+"Home Goods & Electronics","Electronics stores",1012994,44.44444444444444,MID
+"Home Goods & Electronics","Furniture stores",775943,55.55555555555556,MID
+"Home Goods & Electronics","Home furnishings stores",514352,66.66666666666666,SMALL
+"Home Goods & Electronics","All other home furnishings stores",291211,77.77777777777779,SMALL
+"Home Goods & Electronics","Household appliance stores",227566,88.88888888888889,SMALL
+"Home Goods & Electronics","Floor covering stores",123189,100,SMALL
+Miscellaneous,"Nonstore retailers",8511856,0,LARGE
+Miscellaneous,"Miscellaneous store retailers",1647290,50,MID
+Miscellaneous,"Used merchandise stores",217891,100,SMALL
+"Office Supplies & Gifts","Office supplies, stationery, and gift stores",405487,0,LARGE
+"Office Supplies & Gifts","Gift, novelty, and souvenir stores",226192,50,MID
+"Office Supplies & Gifts","Office supplies and stationery stores",179295,100,SMALL
+"Restaurants & Bars","Food services and drinking places",8635492,0,LARGE
+"Restaurants & Bars","Restaurants and other eating places",7541873,25,LARGE
+"Restaurants & Bars","Limited service eating places",3806516,50,MID
+"Restaurants & Bars","Full service restaurants",2677456,75,SMALL
+"Restaurants & Bars","Drinking places",180267,100,SMALL
+"Sports & Recreation","Sporting goods, hobby, musical instrument, and book stores",1123028,0,LARGE
+"Sports & Recreation","Sporting goods stores",623857,33.33333333333333,MID
+"Sports & Recreation","Hobby, toy, and game stores",236644,66.66666666666666,SMALL
+"Sports & Recreation","Book stores",137757,100,SMALL

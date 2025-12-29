@@ -1,0 +1,145 @@
+industry,month,total_monthly_sales,rnk
+Automotive,8,4822818,1
+Automotive,5,4763342,2
+Automotive,3,4759220,3
+Automotive,7,4696992,4
+Automotive,6,4637376,5
+Automotive,12,4614576,6
+Automotive,4,4471542,7
+Automotive,10,4470684,8
+Automotive,9,4430278,9
+Automotive,11,4268662,10
+Automotive,2,4037466,11
+Automotive,1,3867979,12
+"Fashion & Accessories",12,1115574,1
+"Fashion & Accessories",11,811323,2
+"Fashion & Accessories",8,742505,3
+"Fashion & Accessories",5,707789,4
+"Fashion & Accessories",10,702530,5
+"Fashion & Accessories",7,693744,6
+"Fashion & Accessories",3,691293,7
+"Fashion & Accessories",6,677855,8
+"Fashion & Accessories",9,659111,9
+"Fashion & Accessories",4,651830,10
+"Fashion & Accessories",2,596946,11
+"Fashion & Accessories",1,527626,12
+"Food & Beverage",12,3047368,1
+"Food & Beverage",11,2810868,2
+"Food & Beverage",5,2799623,3
+"Food & Beverage",7,2787292,4
+"Food & Beverage",8,2773945,5
+"Food & Beverage",10,2751956,6
+"Food & Beverage",3,2742088,7
+"Food & Beverage",6,2720797,8
+"Food & Beverage",9,2654253,9
+"Food & Beverage",4,2639095,10
+"Food & Beverage",1,2603589,11
+"Food & Beverage",2,2447797,12
+"Fuel & Gasoline",7,641454,1
+"Fuel & Gasoline",8,637891,2
+"Fuel & Gasoline",5,637026,3
+"Fuel & Gasoline",6,632389,4
+"Fuel & Gasoline",10,629626,5
+"Fuel & Gasoline",3,611964,6
+"Fuel & Gasoline",9,605948,7
+"Fuel & Gasoline",4,598225,8
+"Fuel & Gasoline",12,592709,9
+"Fuel & Gasoline",11,590186,10
+"Fuel & Gasoline",1,562150,11
+"Fuel & Gasoline",2,540344,12
+"General Merchandise",12,2397021,1
+"General Merchandise",11,1952466,2
+"General Merchandise",5,1764913,3
+"General Merchandise",8,1763321,4
+"General Merchandise",10,1729786,5
+"General Merchandise",3,1727210,6
+"General Merchandise",6,1713206,7
+"General Merchandise",7,1706786,8
+"General Merchandise",4,1646201,9
+"General Merchandise",9,1622846,10
+"General Merchandise",2,1513817,11
+"General Merchandise",1,1499961,12
+"Health & Personal Care",12,710582,1
+"Health & Personal Care",3,650365,2
+"Health & Personal Care",10,649689,3
+"Health & Personal Care",8,638462,4
+"Health & Personal Care",5,634257,5
+"Health & Personal Care",11,629287,6
+"Health & Personal Care",6,624898,7
+"Health & Personal Care",7,624555,8
+"Health & Personal Care",9,622969,9
+"Health & Personal Care",1,621954,10
+"Health & Personal Care",4,620379,11
+"Health & Personal Care",2,589183,12
+"Home Goods & Building Supplies",5,902307,1
+"Home Goods & Building Supplies",6,859096,2
+"Home Goods & Building Supplies",4,821716,3
+"Home Goods & Building Supplies",7,809875,4
+"Home Goods & Building Supplies",8,789035,5
+"Home Goods & Building Supplies",10,780991,6
+"Home Goods & Building Supplies",9,754760,7
+"Home Goods & Building Supplies",3,745738,8
+"Home Goods & Building Supplies",11,740986,9
+"Home Goods & Building Supplies",12,703640,10
+"Home Goods & Building Supplies",1,589646,11
+"Home Goods & Building Supplies",2,575609,12
+"Home Goods & Electronics",12,1766111,1
+"Home Goods & Electronics",11,1510294,2
+"Home Goods & Electronics",8,1318794,3
+"Home Goods & Electronics",10,1290775,4
+"Home Goods & Electronics",7,1268090,5
+"Home Goods & Electronics",9,1263466,6
+"Home Goods & Electronics",5,1253348,7
+"Home Goods & Electronics",3,1251125,8
+"Home Goods & Electronics",6,1247750,9
+"Home Goods & Electronics",4,1181290,10
+"Home Goods & Electronics",1,1166661,11
+"Home Goods & Electronics",2,1128964,12
+Miscellaneous,12,1151444,1
+Miscellaneous,11,987668,2
+Miscellaneous,10,884878,3
+Miscellaneous,8,858254,4
+Miscellaneous,5,850405,5
+Miscellaneous,6,827938,6
+Miscellaneous,7,827397,7
+Miscellaneous,3,826692,8
+Miscellaneous,9,826453,9
+Miscellaneous,4,810350,10
+Miscellaneous,1,780163,11
+Miscellaneous,2,745395,12
+"Office Supplies & Gifts",12,88116,1
+"Office Supplies & Gifts",10,79108,2
+"Office Supplies & Gifts",8,77202,3
+"Office Supplies & Gifts",9,69054,4
+"Office Supplies & Gifts",7,67578,5
+"Office Supplies & Gifts",11,65518,6
+"Office Supplies & Gifts",5,64322,7
+"Office Supplies & Gifts",6,62996,8
+"Office Supplies & Gifts",3,61518,9
+"Office Supplies & Gifts",1,59290,10
+"Office Supplies & Gifts",4,58410,11
+"Office Supplies & Gifts",2,57862,12
+"Restaurants & Bars",8,1992095,1
+"Restaurants & Bars",7,1991928,2
+"Restaurants & Bars",12,1988716,3
+"Restaurants & Bars",5,1973572,4
+"Restaurants & Bars",10,1955796,5
+"Restaurants & Bars",6,1949498,6
+"Restaurants & Bars",3,1928019,7
+"Restaurants & Bars",9,1879809,8
+"Restaurants & Bars",11,1856090,9
+"Restaurants & Bars",4,1853700,10
+"Restaurants & Bars",1,1750662,11
+"Restaurants & Bars",2,1721719,12
+"Sports & Recreation",12,278223,1
+"Sports & Recreation",8,197989,2
+"Sports & Recreation",11,192880,3
+"Sports & Recreation",6,175474,4
+"Sports & Recreation",7,170775,5
+"Sports & Recreation",9,168185,6
+"Sports & Recreation",3,166071,7
+"Sports & Recreation",5,165717,8
+"Sports & Recreation",10,160574,9
+"Sports & Recreation",4,154985,10
+"Sports & Recreation",1,153369,11
+"Sports & Recreation",2,137044,12

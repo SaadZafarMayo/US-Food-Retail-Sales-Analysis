@@ -1,0 +1,59 @@
+industry,kind_of_business,naics_code,total_sales,pct_contribution
+Automotive,"Motor vehicle and parts dealers",441,14531121,26.99
+Automotive,"Automobile and other motor vehicle dealers","4411,4412",13310756,24.72
+Automotive,"Automobile dealers",4411,12389347,23.01
+Automotive,"New car dealers",44111,10980583,20.39
+Automotive,"Used car dealers",44112,1408764,2.62
+Automotive,"Automotive parts, acc., and tire stores",4413,1220364,2.27
+"Fashion & Accessories","Clothing and clothing access. stores",448,3302936,38.50
+"Fashion & Accessories","Clothing stores",4481,2376400,27.70
+"Fashion & Accessories","Family clothing stores",44814,1306038,15.23
+"Fashion & Accessories","Women's clothing stores",44812,507517,5.92
+"Fashion & Accessories","Shoe stores",4482,447285,5.21
+"Fashion & Accessories","Jewelry stores",44831,340640,3.97
+"Fashion & Accessories","Other clothing stores",44819,203083,2.37
+"Fashion & Accessories","Men's clothing stores",44811,94227,1.10
+"Food & Beverage","Food and beverage stores",445,9451004,28.83
+"Food & Beverage","Grocery stores",4451,8463197,25.82
+"Food & Beverage","Supermarkets and other grocery (except convenience) stores",44511,8092220,24.69
+"Food & Beverage","Warehouse clubs and superstores",45291,6077939,18.54
+"Food & Beverage","Beer, wine, and liquor stores",4453,694311,2.12
+"Fuel & Gasoline","Gasoline stations",447,6811521,93.57
+"Fuel & Gasoline","Fuel dealers",45431,468391,6.43
+"General Merchandise","General merchandise stores",452,9038491,42.96
+"General Merchandise","Other general merchandise stores",4529,7031707,33.42
+"General Merchandise","Department stores",4521,2006784,9.54
+"General Merchandise","Discount dept. stores",452112,1366680,6.50
+"General Merchandise","All other gen. merchandise stores",45299,953768,4.53
+"General Merchandise","Department stores(excl. discount department stores)",452111,640104,3.04
+"Health & Personal Care","Health and personal care stores",446,4149035,54.47
+"Health & Personal Care","Pharmacies and drug stores",44611,3467545,45.53
+"Home Goods & Building Supplies","Building mat. and garden equip. and supplies dealers",444,4586452,50.55
+"Home Goods & Building Supplies","Building mat. and supplies dealers",4441,3989273,43.97
+"Home Goods & Building Supplies","Hardware stores",44413,349109,3.85
+"Home Goods & Building Supplies","Paint and wallpaper stores",44412,148565,1.64
+"Home Goods & Electronics","Electronic shopping and mail-order houses",4541,7351761,46.99
+"Home Goods & Electronics","Furniture, home furn, electronics, and appliance stores","442,443",2674826,17.10
+"Home Goods & Electronics","Furniture and home furnishings stores",442,1434266,9.17
+"Home Goods & Electronics","Electronics and appliance stores",443,1240560,7.93
+"Home Goods & Electronics","Electronics stores",443142,1012994,6.47
+"Home Goods & Electronics","Furniture stores",4421,775943,4.96
+"Home Goods & Electronics","Home furnishings stores",4422,514352,3.29
+"Home Goods & Electronics","All other home furnishings stores",442299,291211,1.86
+"Home Goods & Electronics","Household appliance stores",443141,227566,1.45
+"Home Goods & Electronics","Floor covering stores",44221,123189,0.79
+Miscellaneous,"Nonstore retailers",454,8511856,82.03
+Miscellaneous,"Miscellaneous store retailers",453,1647290,15.87
+Miscellaneous,"Used merchandise stores",45330,217891,2.10
+"Office Supplies & Gifts","Office supplies, stationery, and gift stores",4532,405487,50.00
+"Office Supplies & Gifts","Gift, novelty, and souvenir stores",45322,226192,27.89
+"Office Supplies & Gifts","Office supplies and stationery stores",45321,179295,22.11
+"Restaurants & Bars","Food services and drinking places",722,8635492,37.81
+"Restaurants & Bars","Restaurants and other eating places",7225,7541873,33.02
+"Restaurants & Bars","Limited service eating places","722513,722514,722515",3806516,16.66
+"Restaurants & Bars","Full service restaurants",722511,2677456,11.72
+"Restaurants & Bars","Drinking places",7224,180267,0.79
+"Sports & Recreation","Sporting goods, hobby, musical instrument, and book stores",451,1123028,52.94
+"Sports & Recreation","Sporting goods stores",45111,623857,29.41
+"Sports & Recreation","Hobby, toy, and game stores",45112,236644,11.16
+"Sports & Recreation","Book stores",451211,137757,6.49
