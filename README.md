@@ -35,7 +35,7 @@ All insights are derived through structured SQL analysis.
 - How do NAICS sub-industries differ in scale and growth behavior?
 - Which segments show consistent growth or decline over time?
 
-This project emphasizes analytical methodology to answer these questions rather than relying on predefined conclusions.
+ > This project emphasizes analytical methodology to answer these questions rather than relying on predefined conclusions.
 ---
 
 ## Reporting & Interpretation
