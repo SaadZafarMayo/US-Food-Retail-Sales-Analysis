@@ -21,6 +21,33 @@ All insights are derived through structured SQL analysis.
 - Identify concentration, growth, and variability patterns
 - Frame findings in a business and investment analysis context
 
+
+
+
+
+---
+
+## Key Business Questions Explored
+- How do total sales evolve over time across industries?
+- Which industries and businesses contribute most to total sales?
+- Are sales concentrated among a small number of businesses?
+- Do industries exhibit seasonal sales patterns?
+- How do NAICS sub-industries differ in scale and growth behavior?
+- Which segments show consistent growth or decline over time?
+
+This project emphasizes analytical methodology to answer these questions rather than relying on predefined conclusions.
+---
+
+## Reporting & Interpretation
+Findings are documented in the `reports/` directory:
+
+- **Key Insights**: Summarizes observed patterns and structural characteristics
+- **Investment Analysis**: Frames trends and growth behavior in a strategic context
+
+Both reports are intentionally **result-agnostic** to ensure robustness and
+reusability.
+
+
 ---
 
 ## Dataset
@@ -57,22 +84,6 @@ The analysis follows a structured workflow:
 
 All analysis is implemented directly in SQL.
 
----
-
-## Tools & Techniques
-- **SQL**
-  - Aggregations & GROUP BY
-  - Common Table Expressions (CTEs)
-  - Window functions (`LAG`, `DENSE_RANK`, `PERCENT_RANK`)
-  - Time-series comparisons
-
-- **Analytical Concepts**
-  - Trend & seasonality analysis
-  - Market concentration
-  - Growth vs decline classification
-  - Contribution analysis
-
----
 
 ## Project Structure
 
@@ -101,30 +112,24 @@ US-Food-Retail-Sales-Analysis/
 
 ```
 
----
-
-## Key Business Questions Explored
-- How do total sales evolve over time across industries?
-- Which industries and businesses contribute most to total sales?
-- Are sales concentrated among a small number of businesses?
-- Do industries exhibit seasonal sales patterns?
-- How do NAICS sub-industries differ in scale and growth behavior?
-- Which segments show consistent growth or decline over time?
-
-The project focuses on **how to answer these questions**, not on hard-coded conclusions.
 
 ---
 
-## Reporting & Interpretation
-Findings are documented in the `reports/` directory:
+## Tools & Techniques
+- **SQL**
+  - Aggregations & GROUP BY
+  - Common Table Expressions (CTEs)
+  - Window functions (`LAG`, `DENSE_RANK`, `PERCENT_RANK`)
+  - Time-series comparisons
 
-- **Key Insights**: Summarizes observed patterns and structural characteristics
-- **Investment Analysis**: Frames trends and growth behavior in a strategic context
-
-Both reports are intentionally **result-agnostic** to ensure robustness and
-reusability.
+- **Analytical Concepts**
+  - Trend & seasonality analysis
+  - Market concentration
+  - Growth vs decline classification
+  - Contribution analysis
 
 ---
+
 
 ## Future Enhancements
 - Build interactive dashboards using Tableau or Power BI
