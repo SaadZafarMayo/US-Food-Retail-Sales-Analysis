@@ -27,6 +27,21 @@ All insights are derived through structured SQL analysis.
 
 ---
 
+
+## Dataset
+The dataset contains historical U.S. retail and food services sales figures,
+including:
+- Time dimensions (month, year)
+- NAICS codes
+- Industry and business classifications
+- Sales values
+
+The data supports multi-level aggregation and time-based analysis.
+Raw data is stored in `data/raw/` in **CSV and JSON formats** to support flexible analysis and data ingestion.  
+
+
+---
+
 ## Key Business Questions Explored
 - How do total sales evolve over time across industries?
 - Which industries and businesses contribute most to total sales?
@@ -50,19 +65,7 @@ reusability.
 
 ---
 
-## Dataset
-The dataset contains historical U.S. retail and food services sales figures,
-including:
-- Time dimensions (month, year)
-- NAICS codes
-- Industry and business classifications
-- Sales values
 
-The data supports multi-level aggregation and time-based analysis.
-Raw data is stored in `data/raw/` in **CSV and JSON formats** to support flexible analysis and data ingestion.  
-
-
----
 
 ## Analytical Approach
 The analysis follows a structured workflow:
